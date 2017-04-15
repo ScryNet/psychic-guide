@@ -3,7 +3,7 @@ This was GitHub's suggested name. Idea machine! lives here
 
 ## Project name: 
 
-scrynet. 
+### scrynet 
 A mix of skynet (the singularity made horrifically real) and scrying, the act predicting the future through devination.
 
 ## Description: 
@@ -30,18 +30,22 @@ We welcome contributors. we're a small group using this project as a chance to b
 
 (setting guidelines fro contributing)[https://help.github.com/articles/setting-guidelines-for-repository-contributors/]
 
-Credits: 
+## Credits: 
 
-Concept: 
+### Concept: 
 
 (DarrenfJ)[https://github.com/DarrenfJ]
 
-Lead Developers 
+### Lead Developers 
 
 (Manish)[https://github.com/Manish-Giri] 
 
 {Ahmed)[https://github.com/ahmedtarek2134]
 
-License: MIT license. 
+## License: 
+
+MIT license. 
+
+https://opensource.org/licenses/MIT
 
 Everybody has ideas, and nobody should hord them (or at least, this is how I feel), people just act as a conduit from the well of creativity (the source). So let's keep it free for all.
