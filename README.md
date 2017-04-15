@@ -42,7 +42,7 @@ We welcome contributors. we're a small group using this project as a chance to b
 
 [Manish giri](https://github.com/Manish-Giri)
 
-[Ahmed]{https://github.com/ahmedtarek2134)
+[Ahmed](https://github.com/ahmedtarek2134)
 
 ## License: 
 
