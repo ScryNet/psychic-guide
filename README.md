@@ -18,7 +18,9 @@ TBD
 
 ## Installation: 
 
-TBD - this would be how to clone the repo. For now it's standard issue git stuff: https://help.github.com/articles/cloning-a-repository/ 
+TBD - this would be how to clone the repo. For now it's standard issue git stuff:
+
+[cloning a repo](https://help.github.com/articles/cloning-a-repository/ )
 
 ## Usage: 
 
@@ -28,24 +30,24 @@ TBD
 
 We welcome contributors. we're a small group using this project as a chance to build something Open Source
 
-(setting guidelines fro contributing)[https://help.github.com/articles/setting-guidelines-for-repository-contributors/]
+[setting guidelines for contributing](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 
 ## Credits: 
 
 ### Concept: 
 
-(DarrenfJ)[https://github.com/DarrenfJ]
+[DarrenfJ](https://github.com/DarrenfJ)
 
 ### Lead Developers 
 
-(Manish)[https://github.com/Manish-Giri] 
+[Manish giri](https://github.com/Manish-Giri)
 
-{Ahmed)[https://github.com/ahmedtarek2134]
+[Ahmed]{https://github.com/ahmedtarek2134)
 
 ## License: 
 
 MIT license. 
 
-https://opensource.org/licenses/MIT
+[license template here](https://opensource.org/licenses/MIT)
 
 Everybody has ideas, and nobody should hord them (or at least, this is how I feel), people just act as a conduit from the well of creativity (the source). So let's keep it free for all.
